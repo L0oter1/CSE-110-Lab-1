@@ -20,4 +20,4 @@ if (tired) {
 [Link Text](#about-me)
 
 ## Link To Another Page
-[My Other Page](./another.md)
+[My Other Page](/another.md)
