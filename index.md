@@ -21,3 +21,18 @@ if (tired) {
 
 ## Link To Another Page
 [My Other Page](/another.md)
+
+## My Favorite CEOs/Entreprenuers
+- Steve Jobs
+- Jeff Bezos
+- Bill Gates
+
+## My Favorite CEOs/Entreprenuers Ranked
+1. Jeff Bezos (cause same name)
+2. Bill Gates (cause I use windows)
+3. Steven Jobs (erm idk)
+
+## Check List of requirements for this class
+- [ ] Finish the Lab
+- [ ] Get groups to work with
+- [x] Attend lecture
