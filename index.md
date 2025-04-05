@@ -29,10 +29,11 @@ if (tired) {
 2. Bill Gates (cause I use windows more than I use mac)
 3. Steven Jobs (I love his approach to problem solving, the first two just outweighted him)
 
-## Check List of requirements for this class
-- [ ] Finish the Lab
-- [ ] Get groups to work with
-- [x] Attend lecture
+## Check List of To-Do List to succeed in this class
+- [ ] Finish the Lab (working on it right now
+- [x] Get groups to work with (filled out the survey)
+- [x] Attend lecture (I love attending lecture, the professor is really funny)
+- [x] Do the Review quiz and review the slides
 
 ## Link to return to the top
 [click this!](#about-me---jeffrey-thi)
