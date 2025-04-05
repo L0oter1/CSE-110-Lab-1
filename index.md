@@ -5,7 +5,7 @@
 I'm a undergraduate student attending **University of California San Diego** and although I am a sophmore, I have **senior** standing. :) This is because I took way too many AP classes in High School. I'm current a tutor for CSE 12 and used to tutor CSE 11. I'm very fascinated by startups and personal businesses and hope to one day start my own business. Since I hang around a lot of entrepreneur spaces, I'm the President of an entrepreneur organization on campus called Sigma Eta Pi. And lastly, I am a math-cs major so this class is not required for me. I'm an avid manga, manhwa, and anime enjoyer and I read a lot of manga and manhwa. I solely took this because I wanted to learn more about what Software Engineering is since I've seen SWE being thrown around everywhere and I genuinely want to learn the development process and other aspects of being a Software Engineer. 
 
 ## Favorite Quote Paraphrased by Me
->If you're not living your own agenda, then you're living someone else's.
+>**If you're not living your own agenda, then you're living someone else's.**
 
 ## Favorite Line of Code Made up by Me
 ```
