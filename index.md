@@ -35,4 +35,4 @@ if (tired) {
 - [x] Attend lecture
 
 ## Link to return to the top
-[click this!](#about-me)
+[click this!](#about-me---jeffrey-thi)
